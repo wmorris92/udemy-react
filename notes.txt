@@ -15,3 +15,7 @@ In the View-Data image, React is the views and Redux is the Data.
 Redux - State container, all the data for the app, hard (list of data) and meta (currently selected)
 
 React - the View, translates data to screen for user interaction.
+
+Reducers - Function that returns a piece (value) of application's state.
+
+Containers - Smart components, connect react to state from Redux.
