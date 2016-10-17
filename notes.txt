@@ -1,1 +1,11 @@
 View/Component - Some code that produces HTML.
+
+Functional component - Component  which is just a JS function.
+
+Class component - component to have some sort of internal record keeping. (e.g. search bar needs to tell app what was written)
+
+State - JS object exists on a class based component. Can change state.
+
+When changing from functional to class based component change props => this.props.
+
+Add a key to list items for optimization.
