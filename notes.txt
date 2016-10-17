@@ -9,3 +9,9 @@ State - JS object exists on a class based component. Can change state.
 When changing from functional to class based component change props => this.props.
 
 Add a key to list items for optimization.
+
+In the View-Data image, React is the views and Redux is the Data.
+
+Redux - State container, all the data for the app, hard (list of data) and meta (currently selected)
+
+React - the View, translates data to screen for user interaction.
