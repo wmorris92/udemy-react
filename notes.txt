@@ -19,3 +19,5 @@ React - the View, translates data to screen for user interaction.
 Reducers - Function that returns a piece (value) of application's state.
 
 Containers - Smart components, connect react to state from Redux.
+
+Avoid using context as much as possible - only use with react-router
